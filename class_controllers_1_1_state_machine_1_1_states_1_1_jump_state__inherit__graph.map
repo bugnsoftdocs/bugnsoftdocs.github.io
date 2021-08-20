@@ -1,0 +1,4 @@
+<map id="Controllers.StateMachine.States.JumpState" name="Controllers.StateMachine.States.JumpState">
+<area shape="rect" id="node1" title=" " alt="" coords="5,292,284,531"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_state_machine_1_1_state.html" title="Clase base para los estados de cada personaje. Controla el ciclo de vida de cada estado (Enter,..." alt="" coords="48,5,241,244"/>
+</map>

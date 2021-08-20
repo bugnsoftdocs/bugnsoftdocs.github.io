@@ -1,0 +1,7 @@
+<map id="Controllers.StateMachine.States.IdleState" name="Controllers.StateMachine.States.IdleState">
+<area shape="rect" id="node1" title=" " alt="" coords="307,292,547,560"/>
+<area shape="rect" id="node3" href="$class_froggy___idle_state.html" title=" " alt="" coords="5,608,272,788"/>
+<area shape="rect" id="node4" href="$class_o_l_c___idle_state.html" title=" " alt="" coords="297,608,557,788"/>
+<area shape="rect" id="node5" href="$class_o_l_c___stunned_state.html" title=" " alt="" coords="581,608,841,788"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_state_machine_1_1_state.html" title="Clase base para los estados de cada personaje. Controla el ciclo de vida de cada estado (Enter,..." alt="" coords="330,5,523,244"/>
+</map>

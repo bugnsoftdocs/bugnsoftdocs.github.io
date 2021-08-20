@@ -1,0 +1,6 @@
+<map id="Controllers.NjordController" name="Controllers.NjordController">
+<area shape="rect" id="node1" title=" " alt="" coords="109,1576,323,1697"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_base_controller.html" title=" " alt="" coords="101,292,331,1528"/>
+<area shape="rect" id="node3" href="$interface_controllers_1_1_i_damageable.html" title="Interfaz para todos los NPCs/Enemigos/Objetos que pueden ser daniados." alt="" coords="5,57,203,193"/>
+<area shape="rect" id="node4" href="$interface_interactions_1_1_interfaces_1_1_i_interactive.html" title=" " alt="" coords="227,5,429,244"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="Controllers.StateMachine.ControllerStateMachine" name="Controllers.StateMachine.ControllerStateMachine">
+<area shape="rect" id="node1" title="Controla el estado de un enemigo o NPC, desde que spawnea hasta que muere. Casi todos los metodos son..." alt="" coords="5,5,177,141"/>
+</map>

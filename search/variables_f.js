@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['scene_951',['scene',['../class_u_i_1_1_u_i___game_button.html#a2dd2d95998a8a97250b3b70377bf727a',1,'UI::UI_GameButton']]],
+  ['screenopts_952',['screenOpts',['../class_main_menu.html#afd23ef7a4f8b4d04d507e3eee7a3d3e2',1,'MainMenu']]],
+  ['secondphasepos_953',['secondPhasePos',['../class_controllers_1_1_froggy_1_1_o_l_c___controller.html#a4df867f4769900490624f081baf87a13',1,'Controllers::Froggy::OLC_Controller']]],
+  ['selectedbutton_954',['selectedButton',['../class_main_menu.html#a989a9d985dfc248d943efb2e37201b34',1,'MainMenu']]],
+  ['selectedbutton_955',['SelectedButton',['../class_u_i___joystick_controller.html#a08f2e124c02015c4e06ad12fefca2cba',1,'UI_JoystickController']]],
+  ['selectorchangesfx_956',['SelectorChangeSFX',['../class_u_i___joystick_controller.html#ac013cc81b09ba71d93d3637959eae63f',1,'UI_JoystickController']]],
+  ['showlapida_957',['showLapida',['../class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_dead_state_data.html#a40774b9f80cb9e398f90fc6198e27fba',1,'Controllers::StateMachine::States::Data::DeadStateData']]],
+  ['sliderfpsamount_958',['sliderFPSamount',['../class_main_menu.html#a059edcc8ebdf3cd0ce95ae55c9b37db5',1,'MainMenu']]],
+  ['sliderfpsamountstr_959',['sliderFPSamountSTR',['../class_screen_opts.html#a6b09c218a112940e7d1985dada58686d',1,'ScreenOpts']]],
+  ['slow_960',['slow',['../struct_controllers_1_1_damage_1_1_damage_info.html#a669ff2fdf09c2245f8824905901be656',1,'Controllers::Damage::DamageInfo']]],
+  ['slowduration_961',['slowDuration',['../struct_controllers_1_1_damage_1_1_damage_info.html#a4113f43b8478cb5bff1c555fe70c8324',1,'Controllers::Damage::DamageInfo']]],
+  ['specialmovewaittime_962',['specialMoveWaitTime',['../class_player_1_1_player_controller.html#a0873bcb5c95efeb9c8c82263da526145',1,'Player::PlayerController']]],
+  ['spriteperframe_963',['spritePerFrame',['../class_image_animation.html#ab3da7a8d416525438962f05ebfd7ce76',1,'ImageAnimation']]],
+  ['sprites_964',['sprites',['../class_image_animation.html#a668e5eb4a63fe8da23d7cb2d47a40488',1,'ImageAnimation']]],
+  ['startdelay_965',['startDelay',['../class_dialogue_text_effector.html#a8effad5d82288940114f65d82316cfc6',1,'DialogueTextEffector']]],
+  ['starttime_966',['startTime',['../class_controllers_1_1_state_machine_1_1_state.html#a31e72250c3a3c734cca5a7c8ad24ad63',1,'Controllers::StateMachine::State']]],
+  ['statedata_967',['stateData',['../class_controllers_1_1_froggy_1_1_super_froggy___second_phase.html#ad8044cd99b039b65ef0f4d4de061b20c',1,'Controllers.Froggy.SuperFroggy_SecondPhase.stateData()'],['../class_controllers_1_1_state_machine_1_1_states_1_1_attack_state.html#ab2b04e640cf7f399327ef0ff1483bc9b',1,'Controllers.StateMachine.States.AttackState.stateData()'],['../class_controllers_1_1_state_machine_1_1_states_1_1_jump_state.html#a7aca74b2d2fc2f2f19e4b2cb02f0dd03',1,'Controllers.StateMachine.States.JumpState.stateData()'],['../class_controllers_1_1_state_machine_1_1_states_1_1_prepare_attack_state.html#a010811d01504764b5577c705787634a2',1,'Controllers.StateMachine.States.PrepareAttackState.stateData()']]],
+  ['statemachine_968',['StateMachine',['../class_controllers_1_1_base_controller.html#ae313a2eed7e76094f7fe43e31153a63a',1,'Controllers::BaseController']]],
+  ['statemachine_969',['stateMachine',['../class_controllers_1_1_state_machine_1_1_state.html#a8507f738bb7c9a0820ac32c2c72bac5d',1,'Controllers::StateMachine::State']]],
+  ['stun_970',['stun',['../struct_controllers_1_1_damage_1_1_damage_info.html#ad47cb125b75646327e09a4953352cddb',1,'Controllers::Damage::DamageInfo']]],
+  ['stunduration_971',['stunDuration',['../struct_controllers_1_1_damage_1_1_damage_info.html#a7aef5a56c6e9e6ab28c723b8de7adf8c',1,'Controllers::Damage::DamageInfo']]]
+];

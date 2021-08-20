@@ -1,0 +1,5 @@
+<map id="Controllers.Froggy.Froggy_DamageState" name="Controllers.Froggy.Froggy_DamageState">
+<area shape="rect" id="node1" title=" " alt="" coords="5,520,300,700"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_state_machine_1_1_states_1_1_damage_state.html" title=" " alt="" coords="33,292,273,472"/>
+<area shape="rect" id="node3" href="$class_controllers_1_1_state_machine_1_1_state.html" title="Clase base para los estados de cada personaje. Controla el ciclo de vida de cada estado (Enter,..." alt="" coords="56,5,249,244"/>
+</map>

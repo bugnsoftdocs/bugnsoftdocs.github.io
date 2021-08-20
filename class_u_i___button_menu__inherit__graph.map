@@ -1,0 +1,5 @@
+<map id="UI_ButtonMenu" name="UI_ButtonMenu">
+<area shape="rect" id="node1" title=" " alt="" coords="61,131,251,252"/>
+<area shape="rect" id="node2" href="$class_i_pointer_enter_handler.html" title=" " alt="" coords="5,5,147,83"/>
+<area shape="rect" id="node3" href="$class_i_pointer_exit_handler.html" title=" " alt="" coords="171,5,304,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Controllers.IDamageable" name="Controllers.IDamageable">
+<area shape="rect" id="node1" title="Interfaz para todos los NPCs/Enemigos/Objetos que pueden ser daniados." alt="" coords="475,5,673,141"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_base_controller.html" title=" " alt="" coords="339,189,569,1425"/>
+<area shape="rect" id="node7" href="$class_player_1_1_player_controller.html" title=" " alt="" coords="594,534,794,1081"/>
+<area shape="rect" id="node3" href="$class_controllers_1_1_dummy_controller.html" title=" " alt="" coords="5,1671,193,1749"/>
+<area shape="rect" id="node4" href="$class_controllers_1_1_froggy_1_1_froggy_controller.html" title=" " alt="" coords="217,1473,437,1947"/>
+<area shape="rect" id="node5" href="$class_controllers_1_1_froggy_1_1_o_l_c___controller.html" title=" " alt="" coords="461,1539,700,1881"/>
+<area shape="rect" id="node6" href="$class_controllers_1_1_njord_controller.html" title=" " alt="" coords="724,1649,939,1771"/>
+</map>

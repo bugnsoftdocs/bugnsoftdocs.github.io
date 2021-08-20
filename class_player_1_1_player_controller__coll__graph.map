@@ -1,0 +1,7 @@
+<map id="Player.PlayerController" name="Player.PlayerController">
+<area shape="rect" id="node1" title=" " alt="" coords="233,292,433,692"/>
+<area shape="rect" id="node2" href="$interface_controllers_1_1_i_damageable.html" title="Interfaz para todos los NPCs/Enemigos/Objetos que pueden ser daniados." alt="" coords="5,5,203,141"/>
+<area shape="rect" id="node3" title=" " alt="" coords="227,35,274,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="397,35,435,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="513,35,559,112"/>
+</map>

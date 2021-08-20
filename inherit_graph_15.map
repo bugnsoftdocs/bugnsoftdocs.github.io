@@ -1,0 +1,12 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node1" href="$class_scriptable_object.html" title=" " alt="" coords="5,274,124,301"/>
+<area shape="rect" id="node2" href="$class_controllers_1_1_froggy_1_1_states_1_1_data_1_1_o_l_c___attack_state_data.html" title=" " alt="" coords="199,5,381,47"/>
+<area shape="rect" id="node3" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_attack_state_data.html" title=" " alt="" coords="195,71,385,112"/>
+<area shape="rect" id="node4" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_controller_data.html" title=" " alt="" coords="201,136,379,177"/>
+<area shape="rect" id="node5" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_damage_state_data.html" title=" " alt="" coords="189,201,391,243"/>
+<area shape="rect" id="node6" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_dead_state_data.html" title=" " alt="" coords="199,267,381,308"/>
+<area shape="rect" id="node7" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_idle_state_data.html" title=" " alt="" coords="203,332,377,373"/>
+<area shape="rect" id="node8" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_jump_state_data.html" title=" " alt="" coords="198,397,382,439"/>
+<area shape="rect" id="node9" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_prepare_attack_state_data.html" title=" " alt="" coords="172,463,408,504"/>
+<area shape="rect" id="node10" href="$class_controllers_1_1_state_machine_1_1_states_1_1_data_1_1_super_froggy___second_phase_state_data.html" title=" " alt="" coords="204,529,376,585"/>
+</map>
